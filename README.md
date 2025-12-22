@@ -19,6 +19,14 @@ A flexible and fully typed utility library for managing BEM-style class names in
 
 ## 🚀 Installation
 
+```bash
+pnpm add @corvallo/bem-forge
+# or
+npm install @corvallo/bem-forge
+# or
+yarn add @corvallo/bem-forge
+```
+
 ---
 
 ## 📦 Quick Overview
