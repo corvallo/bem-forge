@@ -24,7 +24,7 @@ export type BEMOptions<Defs extends Modifiers = {}> = {
 	modifiers?: Defs;
 	defaultModifiers?: Partial<ModifierProps<Defs>>;
 	compoundModifiers?: CompoundModifier<Defs>[];
-	modifierFormat?: "value" | "key-value"; // default: "value"
+	modifierFormat?: "value" | "key-value"; 
 };
 
 export type BemEntryOptions<Defs extends Modifiers = {}> = Omit<
