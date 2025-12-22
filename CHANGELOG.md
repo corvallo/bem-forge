@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/corvallo/bem-forge/compare/v1.0.1...v1.0.2) (2025-12-22)
+
+
+### Bug Fixes
+
+* repo access ([f092ab6](https://github.com/corvallo/bem-forge/commit/f092ab626bf3aad97ead47f21c9ec5c3bb266582))
+
 ## [1.0.1](https://github.com/corvallo/bem-forge/compare/v1.0.0...v1.0.1) (2025-12-22)
 
 
