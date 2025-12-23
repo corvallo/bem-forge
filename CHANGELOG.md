@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/corvallo/bem-forge/compare/v1.0.2...v1.0.3) (2025-12-23)
+
+
+### Bug Fixes
+
+* add conventionalcommits preset dependency ([b4a13a3](https://github.com/corvallo/bem-forge/commit/b4a13a31d13991a097f2aa99e772368efafc09ca))
+
 ## [1.0.2](https://github.com/corvallo/bem-forge/compare/v1.0.1...v1.0.2) (2025-12-22)
 
 
