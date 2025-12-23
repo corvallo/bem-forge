@@ -1,7 +1,6 @@
 {
   "name": "@corvallo/bem-forge",
   "version": "1.0.0",
-  "description": "",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
@@ -21,13 +20,22 @@
     "prepublish": "pnpm test && pnpm build",
     "postbuild": "cp package.json dist"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "packageManager": "pnpm@10.23.0",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/corvallo/bem-forge.git"
+  "description": "Typed BEM class name builder for React/TS (works with clsx)",
+  "keywords": [
+    "bem",
+    "react",
+    "typescript",
+    "css",
+    "classnames",
+    "clsx"
+  ],
+  "repository": "corvallo/bem-forge",
+  "homepage": "https://github.com/corvallo/bem-forge#readme",
+  "bugs": {
+    "url": "https://github.com/corvallo/bem-forge/issues"
   },
   "devDependencies": {
     "@biomejs/biome": "^2.3.10",
