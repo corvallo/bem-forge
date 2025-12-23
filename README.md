@@ -1,6 +1,8 @@
 # 🔧 @corvallo/bem-forge
 
-
+[![npm version](https://img.shields.io/npm/v/@corvallo/bem-forge)](https://www.npmjs.com/package/@corvallo/bem-forge)
+[![npm downloads](https://img.shields.io/npm/dm/@corvallo/bem-forge)](https://www.npmjs.com/package/@corvallo/bem-forge)
+[![CI](https://img.shields.io/github/actions/workflow/status/corvallo/bem-forge/release.yml)](https://github.com/corvallo/bem-forge/actions)
 
 A flexible and fully typed utility library for managing BEM-style class names in React, with support for modifiers, compound modifiers, CSS Modules, and automatic class merging.
 Why bem-forge?
