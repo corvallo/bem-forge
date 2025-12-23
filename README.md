@@ -3,6 +3,12 @@
 
 
 A flexible and fully typed utility library for managing BEM-style class names in React, with support for modifiers, compound modifiers, CSS Modules, and automatic class merging.
+Why bem-forge?
+
+- Fully typed BEM blocks & modifiers
+- Zero string concatenation
+- Works with CSS Modules
+- Prevents invalid class names at compile time
 
 ---
 
